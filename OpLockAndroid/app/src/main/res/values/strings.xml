@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">OpLock</string>
+    <string name="logo_text">OpLock</string>
+    <string name="login">Логин</string>
+    <string name="password">Пароль</string>
+    <string name="repeat_password">Повторите пароль</string>
+    <string name="entry">Вход</string>
+    <string name="exit">Выход</string>
+    <string name="register">Регистрация</string>
+    <string name="mail">Почта</string>
+    <string name="title_activity_user_applications">userApplications</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="phone">Номер телефона</string>
+    <string name="approvedApps">Одобренные заявки</string>
+
+    <string name="adresView">Адрес:</string>
+    <string name="timeView">Время:</string>
+    <string name="statusView">Статус:</string>
+    <string name="phoneView">Телефон:</string>
+    <string name="dopView">Доп. информация:</string>
+
+    <string name="done">Выполнено</string>
+    <string name="take">Взять</string>
+    <string name="complain">Пожаловаться</string>
+    <string name="cancel">Отменить</string>
+
+    <string name="complaint">Жалоба</string>
+    <string name="makeСomplaint">Подача жалобы</string>
+    <string name="appView">Просмотр заявки</string>
+    <string name="myApps">Мои заявки</string>
+    <string name="apply">Подать заявку</string>
+    <string name="applying">Подача заявки</string>
+    <string name="apps">Заявки</string>
+    <string name="time1">10:00-14:00</string>
+    <string name="time2">14:00-18:00</string>
+    <string name="time">Выберите время:</string>
+    <string name="dopinfo">Дополнительная информация</string>
+    <string name="ip">192.168.0.102</string>
+
+</resources>
