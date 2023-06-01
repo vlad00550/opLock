@@ -1,0 +1,151 @@
+html {
+	
+	background: linear-gradient(#adadad, #686868);
+	background-repeat: no-repeat;
+	background-size: 100% 750px;
+	
+}
+
+.exit {
+	
+	display: table-cell;
+	width: 100%;
+	text-align: right;
+	vertical-align: middle;
+	padding-right: 20px;
+	
+}
+
+.exit_href {
+	
+	display: inline;
+	padding: 0px;
+	border: none;
+	background-color: white;
+	
+}
+
+.a_menu {
+	text-align: center;
+	display: table-cell;
+	text-decoration: none;
+	white-space: nowrap;
+	color: white;
+	font: bold 1.7vw arial, sans-serif;
+	background-color: #adadad;
+	border: 2px solid black;
+	
+	height: 7vh;
+	padding: 5px;
+	padding-left: 2vw;
+	padding-right: 2vw;
+	vertical-align: middle;
+}
+
+.a_menu:hover {
+	
+	background-color: #686868;
+	
+}
+
+.now {
+	
+	background-color: #686868;
+	
+}
+
+body {
+	margin: 0px;
+	border-collapse: collapse;
+}
+
+nav {
+	
+	background-color: white;
+	
+}
+
+
+table {
+	background-color: white;
+	border-collapse: collapse;
+	width: 100%;
+	font: bold 1vw arial, sans-serif;
+}
+
+.nonactive {
+	color: #686868;
+}
+.nonactive:active {
+    border: none;
+	color: #686868;
+}
+
+.scrollt {
+	overflow-x: auto;
+	height: 91vh;
+}
+
+.selected {
+	background-color: #9baecb;
+	border: 2px solid #525975;
+}
+
+.banned {
+	color: red;
+}
+
+dialog {
+	text-align: center;
+    background-color: #686868;
+    width: 30%; 
+	border: 5px solid #525975;
+	top: 30%;
+	color: white;
+	font: bold 1.7vw arial, sans-serif;
+}
+dialog button {
+	width: 40%;
+}
+
+input {
+	
+	background: linear-gradient(white, #adadad);
+	font: 20px arial, sans-serif;
+	width: 60%;
+	margin-bottom: 1%;
+	border-radius: 10px;
+	border: 1px solid;
+	box-shadow: 4px 4px 10px;
+	padding: 8px;
+	
+}
+
+.textBlock {
+	margin-top: 1%;
+	margin-bottom: 1%;
+	margin-left: 52%;
+	color: white;
+	font: bold 1.5vw arial, sans-serif;
+}
+
+td {
+	border: 1px solid black;
+	height: 3vh;
+	text-align: center;
+}
+
+th {
+	border: 1px solid black;
+	height: 3vh;
+}
+
+::-webkit-scrollbar {
+	width: 6px;
+} 
+::-webkit-scrollbar-track {
+	box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+} 
+::-webkit-scrollbar-thumb {
+	box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+}

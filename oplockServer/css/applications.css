@@ -1,0 +1,55 @@
+
+.th1 {
+	width: 10%;
+}
+.th2 {
+	width: 25%;
+}
+.th3 {
+	width: 20%;
+}
+.th4 {
+	width: 15%;
+}
+.th5 {
+	width: 15%;
+}
+.th6 {
+	width: 15%;
+}
+
+.underTable {
+	background-color: white;
+	height: 100%;
+	width: 50%;
+	float: left;
+}
+
+.map {
+	margin-left: 51%;
+	margin-top: 1%;
+	color: white;
+	border: 2px solid black;
+	font: bold 20px arial, sans-serif;
+	height: 55vh;
+	width: 48vw;
+	background-color: white;
+}
+
+button {
+	margin: 1%;
+	background-color: #525975;
+	font: 30px arial, sans-serif;
+	color: white;
+	width: 15%;
+	border-radius: 10px;
+	border-style: none;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	box-shadow: 4px 4px 10px black;
+}
+
+button:active {
+    border: 1px solid black;
+	color: #adadad;
+}

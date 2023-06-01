@@ -1,0 +1,55 @@
+.th1 {
+	width: 5%;
+}
+.th2 {
+	width: 15%;
+}
+.th3 {
+	width: 10%;
+}
+.th4 {
+	width: 10%;
+}
+.th5 {
+	width: 15%;
+}
+.th6 {
+	width: 20%;
+}
+.th7 {
+	width: 15%;
+}
+.th8 {
+	width: 10%;
+}
+
+.buttons {
+	margin-left: 81%;
+	margin-top: 1%;
+}
+
+.underTable {
+	background-color: white;
+	height: 100%;
+	width: 80%;
+	float: left;
+}
+
+button {
+	margin-bottom: 10px;
+	background-color: #525975;
+	font: 25px arial, sans-serif;
+	color: white;
+	width: 96%;
+	border-radius: 10px;
+	border-style: none;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	box-shadow: 4px 4px 10px black;
+}
+
+
+button:active {
+    border: 1px solid black;
+	color: #adadad;
+}
